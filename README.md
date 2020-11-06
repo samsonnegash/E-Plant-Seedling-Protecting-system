@@ -1,61 +1,51 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+Hello This is my project E-Plant-Seedling-Protecting-system made with laravel 8, jetstream integrated with telegram bot
+Problem statement
+-According to, Ethiopian Enviroment and forest research institute,
+Ethiopia has pledged to restore 15 million hectars of land by 2030 under the bonn challenge.
+-According  to, Green legacy initiative in Ethiopia, 
+Ethiopia has planned to plant 20 billion plants in the next 4 years.
+＃ In this researchs and thoughts, we saw a gap of 
+   lack of encourage of people to take of planted trees.
+So, in our project, we tried to fill this gap using web, mobile app(for both android and ios) and telegram bot.
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+The Solution
 
-## About Laravel
+-Our website and bot gives information for the planters, where could he/she get the plants that he/she needs.
+-It gives a user identity for the planter
+-Everybody can give a comment to the planter regarding to his plant   using his/her secret number 
+- The system shows a leaderboard list of top planters, and gives a chance of getting an award and competition.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+STATSTICS
+-According to Study of International FAO, Ethiopian forest coverage downs from 35% to 4.2% with in 9 years.
+-A record number of nearly 354 million trees were planted in a single day on what the Government named Green Legacy Day, 29 July 2019
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Targeted user
+Demographics
+Who are your users?
+-any person who needs to participate in his/ her countries development goal 
+-Age range: No limitation
+-Education status: Any person who can have an acsess    
+          phone or website
+-language Avalable: It Works on two language (Amharic and English) also there is an apply button which welcomes  other language you want
+-other
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Technology used
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Programming language and tools used
+For Website:   - PHP, Laravel 8,Jetstream
+             -Boootstrap,animate.js,wow.js
+           -Mysql, 000webhost server
+For Mobile App:   - Flutter, Dart language                          
+For Telegram Bot:   - Python Telegram Bot  and wrapper API
+For Share An Idea:   - GitHut:https://github.com/primeKal/hacktonteam12
+                                - 
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+         
+Please see E-Plant Seedling Protecting system.pptx inside folder for detale
 
-## Laravel Sponsors
+https://samsonnegash.cf/
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
